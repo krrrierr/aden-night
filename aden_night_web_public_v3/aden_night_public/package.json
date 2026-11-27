@@ -1,0 +1,8 @@
+{
+  "name": "aden-night",
+  "version": "1.0.0",
+  "private": true,
+  "description": "아덴의 밤 브라우저 게임 정적 서버",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
